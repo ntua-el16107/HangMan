@@ -1,2 +1,2 @@
 # HangMan
-HangMan game developed with JavaFX 
+Developed a classic "Hangman" game where users play against the computer. The game selects words from dictionaries created using descriptions from the Open Library API. The logic ensures fair gameplay with scoring based on the likelihood of correct guesses. Implemented using JavaFX for a user-friendly graphical interface, the game includes detailed statistics, error handling, and menu options for game management. The project adheres to object-oriented programming principles and includes comprehensive documentation.
